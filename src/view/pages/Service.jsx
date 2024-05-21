@@ -83,7 +83,7 @@ function Service() {
       <section className="fourth d-flex align-items-center">
         <div className="Banner-section container">
           <div className="row">
-            <div className="text-start col-12 text-center">
+            <div className="text-start col-12 ">
               <h1>Have an project in mind.</h1>
               <button className=" d-flex gap-2 align-items-center">
                 Let's Talk

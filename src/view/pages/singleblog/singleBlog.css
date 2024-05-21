@@ -1,0 +1,105 @@
+.blogs-section {
+    background: #161719;
+}
+
+.blogs-section .content {
+    width: 75%;
+}
+
+.blogs-section .blogReference {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.blogs-section .firstrow {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.blogs-section .blogReference img {
+    border-top: 0.5px solid #FFFFFF;
+    padding-top: 20px;
+}
+
+.blogs-section .blogReference p {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    padding-top: 30px;
+
+}
+
+.blogs-section .teamsHeading h1 {
+    padding-bottom: 30px;
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    text-align: left;
+
+}
+
+.blogs-section .prev {
+    gap: 6rem;
+}
+
+.blogs-section .prev h2 {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.74px;
+    text-align: center;
+
+}
+
+.blogs-section .content h2 {
+    padding-bottom: 30px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 23.52px;
+    text-align: left;
+}
+
+.blogs-section .content p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.blogs-section .content {
+    padding-top: 50px;
+}
+
+.blogContent button {
+    border: none;
+    margin-top: 22px;
+    background: #FFFFFF;
+    color: black;
+    text-align: center;
+    padding: 20px 30px 20px 30px;
+    border-radius: 50px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.54px;
+}
+
+.blogs-section .headertags {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19.8px;
+    text-align: center;
+    border: 1px solid #666666;
+    border-radius: 250px;
+    padding: 5px 10px 5px 10px;
+}
+
+.blogs-section .teamsheaderRow {
+    padding-top: 100px;
+}

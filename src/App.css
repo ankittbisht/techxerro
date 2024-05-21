@@ -54,7 +54,6 @@
 
 .Banner-section {
   background: #EC1A1A;
-  /* padding-top: 100px; */
   width: 1140px;
   height: 270px;
   border-radius: 20px;
@@ -67,7 +66,6 @@
   font-size: 32px;
   font-weight: 700;
   line-height: 48px;
-
 }
 
 .Banner-section button {

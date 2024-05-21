@@ -6,10 +6,7 @@ import Card from "react-bootstrap/Card";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import { blogPosts } from "../../../utils/constant";
-import VerticalCarousel from "./page";
-import MyComponent from "./page";
-import AnimatedCards from "./page";
-import StackingCards from "./page";
+
 import Home from "./page";
 function GridExample() {
   // const maxAlphabets = 150; // Change this to the desired number of alphabets per page
